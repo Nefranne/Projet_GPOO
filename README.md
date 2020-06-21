@@ -4,7 +4,7 @@
   
 Pour pouvoir compiler le projet il est nécessaire de télécharger la    [JDK version 14.0.1](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
 
-Il faut d'abord lancer le serveur.java et enseuite lancer les clients. 
+Il faut d'abord lancer le serveur.java et ensuite lancer les clients. 
 Client.java et ClientGui.java sont la même chose à la différence que ClientGui a une interface graphique. Lancer les deux permets d'avoir deux instances sur la même machine et pouvoir tester le chat.
 
 Au lancement du programme vous devez taper "localhost" si votre serveur et client se trouvent sur la même machine, ou bien taper l'adresse ip <b>locale</b> 
