@@ -15,5 +15,6 @@ La javaDoc se trouve dans /JavaDoc/index.html
 <ul>  
 <li><b>@pseudo</b> Pour envoyer un Message privé à l'utilisateur "pseudo</li>  
 <li>Quelques smileys sont implémentés</li>  
-<li><b>flèche du haut</b> pour reprendre le dernier message tapé</li>  
+<li><b>flèche du haut</b> pour reprendre le dernier message tapé</li>
+ <li><b>#d3961b</b> Permet de changer la couleur de son pseudo avec le code hexadécimal qui a été tapé</li>  
 </ul><br/>
