@@ -11,7 +11,7 @@ Au lancement du programme vous devez taper "localhost" si votre serveur et clien
 
 Si le serveur et client se trouvent sur la même machine, n'importe quel port devrait fonctionner ( 12345 par défaut ) sinon vous devez changer le port en fonction de votre configuration réseau. Le port 55555 devrait fonctionner sinon créez une exception dans le pare feu.
 
-
+La javaDoc se trouve dans /JavaDoc/index.html
 <ul>  
 <li><b>@pseudo</b> Pour envoyer un Message privé à l'utilisateur "pseudo</li>  
 <li>Quelques smileys sont implémentés</li>  
